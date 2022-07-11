@@ -1,1 +1,2 @@
-Link da página: https://cami-codes.github.io/ResenhaAnimeHTML/
+Primeira página em HTML.
+Link: https://cami-codes.github.io/ResenhaAnimeHTML/
